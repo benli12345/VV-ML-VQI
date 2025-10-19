@@ -1,4 +1,4 @@
-#R version 4.3.1
+#R version 4.3.1.
 #Load VQI VV data (available with approval through SVS PSO https://www.vqi.org/data-analysis/)
 library(readr)
 data <- read_csv("vv_data.csv")
